@@ -8,7 +8,6 @@
 ![swift](https://img.shields.io/badge/swift-e09c15.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![python](https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/java-0D61FF.svg?&style=for-the-badge&logoColor=0D61FF)
-![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logoColor=white)
 
 <!--
@@ -26,8 +25,6 @@
 ![VSCODE](https://img.shields.io/badge/VSCODE-2185D0.svg?&style=for-the-badge&logoColor=white)
 ![PYCHARM](https://img.shields.io/badge/PYCHARM-000000.svg?&style=for-the-badge&logo=PYCHARM&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=GIT&logoColor=white)
-![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
-![](https://img.shields.io/badge/-.svg?&style=for-the-badge&logo=&logoColor=white)
 
 # 📌Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sehyeon73@gmail.com)](mailto:sehyeon73@gmail.com)
