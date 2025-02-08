@@ -1,25 +1,37 @@
-# Park Se Hyeon
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Park%20Se%20Hyeon&fontSize=70&animation=fadeIn" />
+</p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgepetton&count_bg=%233D8CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![gepetton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gepetton&show_icons=true&theme=gruvbox)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon73)](https://solved.ac/hyeon73/)
+![Snake animation](https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📌Skills
-![python](https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/java-0D61FF.svg?&style=for-the-badge&logoColor=0D61FF)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logoColor=white)
 
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<!--
-![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
--->
-![VSCODE](https://img.shields.io/badge/VSCODE-2185D0.svg?&style=for-the-badge&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PYCHARM-000000.svg?&style=for-the-badge&logo=PYCHARM&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032.svg?&style=for-the-badge&logo=GIT&logoColor=white)
+### 🛠 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### 🛠 Build Tools & Version Control
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # 📌Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sehyeon73@gmail.com)](mailto:sehyeon73@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sehyeon73@gmail.com)
+
