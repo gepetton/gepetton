@@ -2,11 +2,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Park%20Se%20Hyeon&fontSize=70&animation=fadeIn" />
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgepetton&count_bg=%233D8CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![snake gif](https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=gruvbox&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👋 안녕하세요!
+
+## 🌱 현재 학습 중
+- Spring Boot & JPA를 활용한 고성능 백엔드 아키텍처 설계
+- Docker를 활용한 컨테이너화 및 마이크로서비스 구축
+- 데이터베이스 성능 최적화 및 쿼리 튜닝
+- AWS 기반 클라우드 인프라 구축 및 운영
+
+<!-- ## 💪 주요 프로젝트
+### 프로젝트명 1
+- 설명: 간단한 프로젝트 설명
+- 기술 스택: Spring Boot, JPA, MySQL, AWS
+- [GitHub 저장소](링크)
+- [데모 사이트](링크)
+
+### 프로젝트명 2
+- 설명: 간단한 프로젝트 설명
+- 기술 스택: Spring Boot, JPA, MySQL, AWS
+- [GitHub 저장소](링크)
+- [데모 사이트](링크) -->
 
 # 📌Skills
 
