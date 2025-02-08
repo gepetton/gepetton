@@ -9,7 +9,7 @@
   <img alt="github-snake" src="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=gruvbox&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=tokyonight)
 
 ## 👋 안녕하세요!
 
