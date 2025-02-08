@@ -9,8 +9,6 @@
   <img alt="github-snake" src="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&exclude_repo=Summary,discord-dongbukbot&layout=compact&theme=tokyonight)
-
 ## 👋 안녕하세요!
 
 ## 🌱 현재 학습 중
