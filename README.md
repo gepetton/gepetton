@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Park%20Se%20Hyeon&fontSize=70&animation=fadeIn" />
 </p>
 
-![snake gif](https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg)
+<!-- 다크 모드/라이트 모드 자동 전환 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gepetton&layout=compact&theme=gruvbox&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
