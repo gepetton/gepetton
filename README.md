@@ -1,5 +1,11 @@
-# 👋 Hello, I’m Park Se Hyeon!
-## Web developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/gepetton/gepetton/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+# 👋 Hello, I’m SeHyeon Park!
+**Web developer**
 
 I'm passionate about creating robust and performant systems.
 Majoring in Computer Engineering at Hanyang University ERICA Campus.
