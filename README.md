@@ -37,4 +37,7 @@ Majoring in Computer Engineering at Hanyang University ERICA Campus.
 🤝 Opensource Contribution
 - Jabref/jabref
   - Refined UI text and updated documentation - [PR](https://github.com/JabRef/jabref/pull/12582)
+  -
+  <!--
   - Added 'JabRef suggested groups' feature with tests - [PR](https://github.com/JabRef/jabref/pull/12746)
+    -->
