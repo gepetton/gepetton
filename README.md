@@ -19,11 +19,8 @@ Majoring in Computer Engineering at Hanyang University ERICA Campus.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -40,3 +37,4 @@ Majoring in Computer Engineering at Hanyang University ERICA Campus.
 🤝 Opensource Contribution
 - Jabref/jabref
   - Refined UI text and updated documentation - [PR](https://github.com/JabRef/jabref/pull/12582)
+  - Added 'JabRef suggested groups' feature with tests - [PR](https://github.com/JabRef/jabref/pull/12746)
